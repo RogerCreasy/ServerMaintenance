@@ -1,5 +1,5 @@
 # ServerMaintenance
-scripts to run basic server maintenance functions for Ubuntu and Fedora
+scripts to run basic server maintenance functions for Ubuntu and Fedora(TODO)
 
 * Update package list
 * Upgrade
